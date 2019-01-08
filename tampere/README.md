@@ -20,7 +20,7 @@
 
 #### Agenda
 
- - 18:00 - 18:20 Arrive to the venue, sit down, grab a pizza slice and network with others ;)
+ - 18:00 - 18:15 Arrive to the venue, sit down, grab a pizza slice and network with others ;)
  - 18:15 - 18:20 Welcome from the organisers
  - 18:20 - 18:25 Introductionary words from the venue sponsor for this time, Cybercom
  - 18:30 - 19:00 Introduction to the cloud-native world of Kubernetes & CNCF
