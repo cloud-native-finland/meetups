@@ -9,33 +9,33 @@ Teemu Heikkilä, Emblica
 
 ### Pre-Slush Kubernetes Meetup
 
-Date: 3rd of December, 2018 at 6pm - 9pm
-Meetup link: https://www.meetup.com/Kubernetes-Finland/events/255665681/
-Livestream / video: https://www.youtube.com/watch?v=CfMKDg_iprg
-Attendees (according to meetup.com): 88
-Venue sponsor: [Tuxera](https://www.tuxera.com/)
-Food / drinks sponsor: [Tuxera](https://www.tuxera.com/)
-General meetup sponsors: [CNCF](https://cncf.io) & [luxas labs](https://luxaslabs.com)
+ - Date: 3rd of December, 2018 at 6pm - 9pm
+ - Meetup link: https://www.meetup.com/Kubernetes-Finland/events/255665681/
+ - Livestream / video: https://www.youtube.com/watch?v=CfMKDg_iprg
+ - Attendees (according to meetup.com): 88
+ - Venue sponsor: [Tuxera](https://www.tuxera.com/)
+ - Food / drinks sponsor: [Tuxera](https://www.tuxera.com/)
+ - General meetup sponsors: [CNCF](https://cncf.io) & [luxas labs](https://luxaslabs.com)
 
 #### Agenda
 
-18:00 - 18:15: Arrive to the venue, sit down, grab a pizza slice and network with others ;)
-18:15 - 18:25: Welcome from the organizers
-18:30 - 18:40: Update from the cloud native ecosystem
+ - 18:00 - 18:15: Arrive to the venue, sit down, grab a pizza slice and network with others ;)
+ - 18:15 - 18:25: Welcome from the organizers
+ - 18:30 - 18:40: Update from the cloud native ecosystem
     - Lucas Käldström, CNCF Ambassador
     - Slides: https://speakerdeck.com/luxas/update-from-the-ever-changing-kubernetes-landscape-december-2018-ac645b18-b457-4d41-8175-426d2ac046c9
-18:45 - 19:00: 10 Emerging Trends to Watch for in 2019
+ - 18:45 - 19:00: 10 Emerging Trends to Watch for in 2019
     - Christina Warren, Microsoft
-19:05 - 19:30: Vincit's road to using Kubernetes in the cloud
+ - 19:05 - 19:30: Vincit's road to using Kubernetes in the cloud
     - Mikko Hällfors, Vincit
     - Slides: https://drive.google.com/file/d/1VLnM57l0ABCgZE2aelQuPm4P0mIJafTz/view
-19:35 - 20:00: Implementing the Container Storage Interface (CSI)
+ - 19:35 - 20:00: Implementing the Container Storage Interface (CSI)
     - Anoop Vijayan, Tuxera
     - Slides: https://speakerdeck.com/maniankara/implementing-container-storage-interface-csi-for-moosefs
-20:05 - 20:30: No need to build it yourself - Kubernetes using GKE, Terraform, Helm & Jenkins
+ - 20:05 - 20:30: No need to build it yourself - Kubernetes using GKE, Terraform, Helm & Jenkins
     - Rasmus Selsmark, Unity
     - Slides: https://docs.google.com/presentation/d/1HjlhAcm8yK29j8NPkwQl0w5ZXeTxcBsRF_wsioKBrjA/edit#slide=id.g498ec9e817_0_0
-20:30 - 21:00: Networking time
+ - 20:30 - 21:00: Networking time
 
 
 ### Kubernetes Autumn Meetup
