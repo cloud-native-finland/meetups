@@ -2,9 +2,32 @@
 
 #### The leadership team
 
-Lucas Käldström ([@luxas](https://github.com/luxas)), CNCF Ambassador & Kubernetes maintainer, lucas@luxaslabs.com
-Annie Talvasto, Student
-Teemu Heikkilä, Emblica
+ - Lucas Käldström ([@luxas](https://github.com/luxas)), CNCF Ambassador & Kubernetes maintainer, lucas@luxaslabs.com
+ - Annie Talvasto, Student
+ - Teemu Heikkilä, Emblica
+
+### Winter Kubernetes Meetup
+
+ - Date: 23rd of January, 2019 at 6pm - 9pm
+ - Meetup link: https://www.meetup.com/Kubernetes-Finland/events/256936479/
+ - Livestream / video: TBA
+ - Attendees (according to meetup.com): TBA
+ - Venue sponsor: [Accenture](https://accenture.com)
+ - Food / drinks sponsor: [Accenture](https://accenture.com)
+ - General meetup sponsors: [CNCF](https://cncf.io) & [luxas labs](https://luxaslabs.com)
+
+#### Agenda
+
+ - 18:00 - 18:15: Arrive to the venue, sit down, grab a pizza slice and network with others ;)
+ - 18:15 - 18:20: Welcome from the organizers
+ - 18:20 - 18:25: Introductionary words from the venue sponsor for this time, Accenture
+ - 18:30 - 19:00: Update from KubeCon Seattle 2018
+    - Jörg Schad, Mesosphere
+ - 19:05 - 19:35: A journey towards Kubernetes at scale on remote unattended sites
+    - Niklas Wik, Nokia
+ - 19:40 - 20:10: How to make your company start contributing to open source
+    - Oscar Renalias, Accenture
+ - 20:15 - 20:50: Networking time & optional Accenture lab prototypes
 
 
 ### Pre-Slush Kubernetes Meetup
