@@ -28,7 +28,7 @@
  - 19:05 - 19:30 Setting up a Kubernetes cluster and getting started
     - Jussi Nummelin, Kontena
  - 19:35 - 20:00 Moving from Heroku to AKS
-    - Ilkka Pountanen, Futurice
+    - Ilkka Poutanen, Futurice
  - 20:05 - 20:30 Experiences of different Pipelines and Development workflows on Kubernetes
     - Toni Ylenius & Santtu Pajukanta, Cybercom
  - 20:30 - 21:00 Networking
